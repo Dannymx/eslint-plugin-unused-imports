@@ -1,6 +1,6 @@
 {
 	"name": "eslint-plugin-unused-imports",
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"description": "Report and remove unused es6 modules",
 	"keywords": [
 		"eslint",
@@ -38,7 +38,7 @@
 		"node": "^12.22.0 || ^14.17.0 || >=16.0.0"
 	},
 	"license": "MIT",
-	"repository": "https://github.com/sweepline/eslint-plugin-unused-imports",
-	"homepage": "https://github.com/sweepline/eslint-plugin-unused-imports",
-	"bugs": "https://github.com/sweepline/eslint-plugin-unused-imports/issues"
+	"repository": "https://github.com/Dannymx/eslint-plugin-unused-imports",
+	"homepage": "https://github.com/Dannymx/eslint-plugin-unused-imports",
+	"bugs": "https://github.com/Dannymx/eslint-plugin-unused-imports/issues"
 }
